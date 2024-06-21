@@ -1,0 +1,64 @@
+.box{
+    width: 200px;
+    height: 150px;
+    border: 1 solid brown;
+    overflow: auto;
+}
+.two{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: static;
+}
+.three{
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color: palevioletred;
+    position: relative;
+}
+.four{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 50px;
+    left: 50px; 
+}
+.five{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    position: fixed;
+    top: 20px;
+    right: 20px; 
+}
+.content{
+    width: 100px;
+    height: 500px;
+    background-color: orange;
+    position: sticky;
+    top: zero; 
+}
+.six{
+    width: 2000px;
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
